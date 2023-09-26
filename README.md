@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @au612721106017
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...data scince
-- 💞️ I’m looking to collaborate on ...26/9/2023
+- 💞️ I’m looking to collaborate on .26/9/2023
 - 📫 How to reach me ..7358998737.
 
 <!---
